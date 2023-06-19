@@ -1,0 +1,12 @@
+1. change _config.yml:
+
+name – title
+description – description
+avatar – URL of avatar
+baseurl – the name in Github ("/name    ")
+
+footer-links
+
+2.
+_posts - for posts
+(name: 2014-3-3-Hello-World.md)
